@@ -90,7 +90,13 @@ inventory_metadata = {
     "FS_Explore_Money":"'66fd8c8b','68d64fc8','07260a1d','be7ac48a','2e444c8f','c868e58b'",
     "FS Pay Page":"'7c9471df','e7b53a02'",
     "FS Loan Page":"'f83d93bd','9fd39b6d'",
-    "P2P Scratch Card":"'202ae67c','ff919627'"
+    "P2P Scratch Card":"'202ae67c','ff919627'", 
+    "Curated for you rewards":"'6209fef4','354f8ee6','c1027542','83b6a1db','58ab5766','a742bd11'",
+    "Bottom_more_qab_on_recharge":"'23d2f65c','bb73a7df','fb8787c1','8353c7a9','93ef3a2b','aa4dbf42','8eda945a','db445f60'",
+    "CRJ":"'a1576aa8','f677b475','0f4baa33','a3809593','9bc12867','442af065','7092b488','4dc2e174'",
+    "LCO_Offer_Recharge":"'8bc5a641','8d217925'",
+    "Top_services_qab_on_recharge":"'798dc21d','4aa1ba3b','b2566f88','a000d471','daecbef8','f91a939f','ea635a6c','e6bcedc3'",
+    "Engagement_nugget":"'ac01592e','248c0c9f','ea454d67','a5be96e7','af909b9a','6dbd8f3c'"
 }
 # Current date and time
 today = datetime.now()
