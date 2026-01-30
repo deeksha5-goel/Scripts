@@ -122,7 +122,7 @@ for inventory_name, inventory_adspot in inventory_metadata.items():
 
     print(response.status_code)
 
-    topic = 'ng-test' # Topic on which we want to produce messages
+    topic = 'ng-mis-report' # Topic on which we want to produce messages
 
     # Print results
     if response.status_code == 200:
