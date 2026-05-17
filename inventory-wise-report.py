@@ -97,6 +97,15 @@ inventory_metadata = {
     "LCO_Offer_Recharge":"'8bc5a641','8d217925'",
     "Top_services_qab_on_recharge":"'798dc21d','4aa1ba3b','b2566f88','a000d471','daecbef8','f91a939f','ea635a6c','e6bcedc3'",
     "Engagement_nugget":"'ac01592e','248c0c9f','ea454d67','a5be96e7','af909b9a','6dbd8f3c'",
+    "Shop_pp_packs_new":"'925fbbd9','c91eef48'",
+    "Shop_FS_EMI_section_intro":"'4767f9ff','0940c38f'",
+    "FS_packs":"'c04ded77','e70f5ec7'",
+    "Shop_broadband_packs":"'2725da49','d85debed'",
+    "Shop_growth_inventory_new":"'971ec003','f7133214'",
+    "Shop_pp_section_intro":"'cbe2319c','1bd53bf9'",
+    "Shop_broadband_section_intro":"'4b5dcd36','9e7f65da'",
+    "Shop_dth_section_intro_new":"'6705ad95','1dd8d402'",
+    "Airtel_Network_Hub":"'6a8aeb8e','b99d60e7','96e95f75','416a1b9a','4c189f4b','bd504ec0','07b034fb','4f40e877','f6894752','476de2bc'",
     "Manage_quickactions":"'4aa2bbde','02d598ce','eb4c14b5','769a6faf','83a90654','65d0857b','ff92da58','2ed194c3','13952664','de2c0308','82022bdb','3e0be33f','2b9aae11','dd2a5d67','4f011933','c3db05a9','230743de','ce0ebdc5','df94cdc8','c2008e93','da2b2578','50c978b4','c29f644d','09750db5','e29c0f98','f714b663','785ccae8','e5e8dd99','5b1640fa','7da80a15'"
   
 }
