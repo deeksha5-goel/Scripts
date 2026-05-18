@@ -57,7 +57,6 @@ inventory_metadata = {
     "OTT STRIP":"'87bb88f4','e93e32e8','5d66bd98','156dadd9','160a9f3b','b51998a1','411f58a2','b24dc8f0','9bc959bc','5e8f9f0f','269d1afb','4a6b8a53','42561e21','5a859e81'",
     "MONEY HALF CARD":"'f6ebe5fd','b48bfdab'",
     "MANAGE GROWTH BANNER":"'23563bc0','d4436bad','4f8c8dea','dc760ab7','21def1a4','487ae007','5a2b7efa','a972a495','a647f9fd','428a4844','1c300cd6','cfaa505b'",
-    "Prepaid Service Landing Banner":"'ebc988a4','ec0278ea','bc372f2b','bd64f8d1','991c1d0e','3437fb8b','47610088','94befbd4','ebcda6d8','aecafefb','81dfbde1','230b326d'",
     "Scratch Card":"'00c93433','a71645b0'",
     "Data Loan Scratch Card":"'f2970a4d','79ccd943'",
     "Manage Scratch Card":"'c7aac47b','26570824'",
